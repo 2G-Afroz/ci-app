@@ -1,3 +1,3 @@
 const assert = require("assert");
-assert.strictEqual(2 + 2, 3);
+assert.strictEqual(2 + 2, 4);
 console.log("Test Passed");
