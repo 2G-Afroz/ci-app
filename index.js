@@ -1,1 +1,1 @@
-console.log("CI pipeline test success!");
+console.log("CI pipeline test success!!");
